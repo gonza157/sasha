@@ -16,7 +16,9 @@ int pan_buscarLibre(Pantalla* pan, int cantidad, int* devuelve);
 int pan_Altaempleado(Pantalla* pan, int cantidad, int posLibre);
 int pan_buscarEnArray (Pantalla* pan, int cantidad, int* empleadoEncontrado);
 int pan_baja(Pantalla* pan, int cantidad);
-
+int pan_listarPantalla(Pantalla* pantalla,int len);
+void pan_Harcodeo(Pantalla* pan);
+int pan_modificarPantalla(Pantalla* pan,int len,int id);
 
 
 #endif // PANTALLA_H_INCLUDED

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1556150099 source:/home/alumno/Documentos/Bertello/Parcial-silvana-gonza/main.c
+1556236087 source:/home/alumno/Documentos/Bertello/Parcial-silvana-gonza/main.c
 	<stdio.h>
 	<stdlib.h>
 	"Pantalla.h"
@@ -15,7 +15,7 @@
 
 1556147064 /home/alumno/Documentos/Bertello/Parcial-silvana-gonza/funciones_string.h
 
-1556153895 source:/home/alumno/Documentos/Bertello/Parcial-silvana-gonza/Pantalla.c
+1556236195 source:/home/alumno/Documentos/Bertello/Parcial-silvana-gonza/Pantalla.c
 	<stdio.h>
 	<stdlib.h>
 	<ctype.h>
@@ -23,5 +23,5 @@
 	"funciones_string.h"
 	"Pantalla.h"
 
-1556147441 /home/alumno/Documentos/Bertello/Parcial-silvana-gonza/Pantalla.h
+1556234204 /home/alumno/Documentos/Bertello/Parcial-silvana-gonza/Pantalla.h
 
